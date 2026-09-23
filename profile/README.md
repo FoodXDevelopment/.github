@@ -2,7 +2,9 @@
 
 FoodX is an autonomous food network that people, robots, and machines use to know, act, exchange, and own in the food economy, running on FoodBlock (an open protocol).
 
-**Mission:** Decentralising the food economy to increase individual freedom. 25% of profits to food charities.
+**Mission:** Decentralising the food economy to increase individual freedom.
+
+**Charity commitment:** 25% of profits to food charities.
 
 ## Layers
 
@@ -24,7 +26,7 @@ FoodX is an autonomous food network that people, robots, and machines use to kno
 - Full docs map: https://foodx.network/llms-full.txt
 - FoodBlock paper (text): https://foodx.network/foodblock.md
 - Technical spec (text): https://foodx.network/foodblock-technical-spec.md
-- FoodOS preview (text): https://foodx.network/foodos.md
+- FoodOS review (text): https://foodx.network/foodos.md
 - FoodBlock SDK: https://github.com/FoodXDevelopment/FoodBlock
 
 ## Repositories
