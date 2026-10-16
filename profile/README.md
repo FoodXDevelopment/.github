@@ -14,19 +14,19 @@ FoodX is an autonomous food network that people, robots, and machines use to kno
 
 ## For people
 
-- Website: https://foodx.network
-- About: https://foodx.network/about
-- Protocol: https://foodx.network/protocol
-- Node: https://foodx.network/node
-- Mission: https://foodx.network/mission
+- Website: https://foodx.world
+- About: https://foodx.world/about
+- Protocol: https://foodx.world/protocol
+- Node: https://foodx.world/node
+- Mission: https://foodx.world/mission
 
 ## For AI agents
 
-- LLM map: https://foodx.network/llms.txt
-- Full docs map: https://foodx.network/llms-full.txt
-- FoodBlock paper (text): https://foodx.network/foodblock.md
-- Technical spec (text): https://foodx.network/foodblock-technical-spec.md
-- FoodOS review (text): https://foodx.network/foodos.md
+- LLM map: https://foodx.world/llms.txt
+- Full docs map: https://foodx.world/llms-full.txt
+- FoodBlock paper (text): https://foodx.world/foodblock.md
+- Technical spec (text): https://foodx.world/foodblock-technical-spec.md
+- FoodOS review (text): https://foodx.world/foodos.md
 - FoodBlock SDK: https://github.com/FoodXDevelopment/FoodBlock
 
 ## Repositories
